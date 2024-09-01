@@ -288,5 +288,8 @@ section {
 
 .footer .share img:hover {
 
-    opacity: 0.8;
+    opacity: 0.9;
+}
+.footer .share img:active {
+    opacity: .6;
 }
